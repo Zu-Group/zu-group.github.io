@@ -14,7 +14,7 @@ Zoom Link: https://zoom.us/j/92300119205
 Zoom Link: https://zoom.us/j/92534139519
 * Mondays at 12:00 p.m: women's big book
 zoom link:  https://zoom.us/j/92948268912
-​* Wednesdays at 4:30 p.m: women's Step Meeting
+* Wednesdays at 4:30 p.m: women's Step Meeting
 zoom link:  https://zoom.us/j/91869148863
 
 ​Password for all four meetings: Serenity
