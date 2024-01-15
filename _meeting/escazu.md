@@ -3,8 +3,6 @@ title: Zu Group
 collection: meeting
 ---
 
-# Zú Group - Escazú
-
 Location: [International Baptist Church, Guachipelín](https://maps.app.goo.gl/b4K1sotSN9ScTPkeA)
 
 * Thursday 8:00 AM - 12 steps & 12 traditions study
