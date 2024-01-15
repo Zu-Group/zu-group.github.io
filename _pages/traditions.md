@@ -5,8 +5,7 @@ layout: splash
 ---
 
 # The Twelve Traditions of Alcoholics Anonymous
-
-​1. Our common welfare should come first; personal recovery depends upon A.A. unity.
+1. Our common welfare should come first; personal recovery depends upon A.A. unity.
 2. For our group purpose there is but one ultimate authority — a loving God as He may express Himself in our group conscience. Our leaders are but trusted servants; they do not govern.
 3. The only requirement for A.A. membership is a desire to stop drinking.
 4. Each group should be autonomous except in matters affecting other groups or A.A. as a whole.
