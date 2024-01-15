@@ -1,5 +1,6 @@
 ---
-title: About us 
+title: About us
+permalink: /about/
 layout: splash 
 ---
 
