@@ -10,7 +10,7 @@ Our list of meetings is available below. Meetings are listed alphabetically by t
 * Brasilito
 * Cobano
 * Dominical
-* Escazu (San Jose)
+* [Escazu (San Jose)](/meeting/escazu)
 * Flamingo
 * Grecia
 * Heredia
