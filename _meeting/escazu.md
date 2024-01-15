@@ -1,5 +1,6 @@
 ---
 title: Zu Group
+collection: meeting
 ---
 
 # Zú Group - Escazú
