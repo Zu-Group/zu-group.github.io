@@ -26,7 +26,7 @@ Here is the Meeting Script for the Chairperson. We place it here in case he or s
 We need volunteers to read during the meeting:
 * Preamble
 * How it works
-* 12 Traditions
+* [12 Traditions](/traditions)
 * The Promises
 
 # OTHER ONLINE MEETINGS IN COSTA RICA
