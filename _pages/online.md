@@ -10,24 +10,24 @@ The Zu Group of Alcoholics Anonymous is happy to provide online AA  meetings for
 Monday - SUNDAY:
 * 8 a.m. Costa Rica Time: CLOSED AA MEETING   
 Zoom Link: <https://zoom.us/j/92300119205>
-* 6 p.m. Costa Rica Time: open Aa meeting 
+* 6 p.m. Costa Rica Time: open AA meeting 
 Zoom Link: <https://zoom.us/j/92534139519>
 * Mondays at 12:00 p.m: women's big book
 zoom link:  <https://zoom.us/j/92948268912>
 * Wednesdays at 4:30 p.m: women's Step Meeting
-zoom link:  <https://zoom.us/j/91869148863>
+Zoom link:  <https://zoom.us/j/91869148863>
 
 ​Password for all four meetings: Serenity
 
-​Meeting Topics for Daily Zu Group on-line (Zoom) Meetings (click here)
+​Meeting Topics for Daily Zu Group online (Zoom) Meetings (click here)
 
 Here is the Meeting Script for the Chairperson. We place it here in case he or she gets dropped from the call. Someone else can click on the link to continue with the meeting.
 
 We need volunteers to read during the meeting:
-* Preamble
-* How it works
-* [12 Traditions](/traditions)
-* The Promises
+* [Preamble](/preamble)
+* [How it works](/how)
+* [The Twelve Traditions](/traditions)
+* [The Promises](/promises)
 
 # OTHER ONLINE MEETINGS IN COSTA RICA
 
