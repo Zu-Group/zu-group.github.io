@@ -40,4 +40,4 @@ Our list of meetings is available below. Meetings are listed alphabetically by t
 * Uvita
 * Zancudo Beach
 
-Click here for Online Meetings
+Click [here](/online) for Online Meetings
