@@ -34,8 +34,10 @@ Many of us exclaimed, “What an order! I can’t go through with it.’’ Do n
 
 Our description of the alcoholic, the chapter to the agnostic, and our personal adventures before and after make clear three pertinent ideas: 
 
-(a) That we were alcoholic and could not manage our own lives. 
-(b) That probably no human power could have relieved our alcoholism. 
+(a) That we were alcoholic and could not manage our own lives.
+
+(b) That probably no human power could have relieved our alcoholism.
+
 (c) That God could and would if He were sought. 
 
 [Reprinted from pages 58-60 in the book Alcoholics Anonymous. Copyright © by Alcoholics Anonymous World Services, Inc. 1939, 1955, 1976, 2001.] 
