@@ -9,7 +9,7 @@ The Zu Group of Alcoholics Anonymous is happy to provide online AA  meetings for
 
 Monday - SUNDAY:
 * 8 a.m. Costa Rica Time: CLOSED AA MEETING   
-Zoom Link: https://zoom.us/j/92300119205
+Zoom Link: <https://zoom.us/j/92300119205>
 * 6 p.m. Costa Rica Time: open Aa meeting 
 Zoom Link: https://zoom.us/j/92534139519
 * Mondays at 12:00 p.m: women's big book
