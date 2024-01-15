@@ -1,7 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
-layout: splash 
+layout: single 
 ---
 
 For general questions or in just need of help:

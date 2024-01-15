@@ -1,7 +1,7 @@
 ---
 title: Events
 permalink: /events/
-layout: splash 
+layout: single 
 ---
 
 # Events

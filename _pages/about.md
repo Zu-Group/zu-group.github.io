@@ -1,7 +1,7 @@
 ---
 title: About us
 permalink: /about/
-layout: splash 
+layout: single 
 ---
 
 # About us

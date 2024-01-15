@@ -1,7 +1,7 @@
 ---
 title: Online Meetings
 permalink: /online/
-layout: splash 
+layout: single 
 ---
 
 # ZU GROUP MEETINGS
